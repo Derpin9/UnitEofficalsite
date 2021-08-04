@@ -68,5 +68,17 @@ ul {
   }
 
   body {
-      background-color: silver;
+      background-color: white;
+  }
+
+  .fit-abchart{
+      width: 100%;
+  }
+
+  .fit-hchart{
+      width: 100%;
+  }
+
+  .fit-who{
+      width: 500px;
   }
